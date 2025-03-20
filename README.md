@@ -6,3 +6,6 @@ Exploratory Data Analysis (EDA) on the Kaggle Diabetes dataset. Includes data cl
 - Statistical insights and correlation analysis
 - Visualizations with Matplotlib and Seaborn
 - Summary of key findings and conclusions
+
+1. To install the requirements.txt use git clone https://github.com/nikossotirakis/Diabetes-Data-Analysis
+2. Run the command pip install -r requirements.txt to install all the packages required in your virtual environment.
