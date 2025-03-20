@@ -1,5 +1,5 @@
 # Network-Data-Analysis
-Exploratory Data Analysis (EDA) on the Kaggle Diabetes dataset. Includes data cleaning, visualization, and statistical analysis to uncover patterns and key factors influencing diabetes outcomes.
+Exploratory Data Analysis (EDA) on a network traffic dataset. Includes data cleaning, visualization, and statistical analysis to uncover patterns and key factors influencing network performance and potential anomalies.
 
 - Data preprocessing and cleaning
 - Exploratory data analysis (EDA)
